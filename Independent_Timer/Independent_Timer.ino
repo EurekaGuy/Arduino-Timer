@@ -1,11 +1,10 @@
 /***************************************************************************************
- * Author: EurekaGuy
- * 
  * This code is an example explanation for the video
  * made for a YouTube Channel - "Eureka!".
  * 
+ * Author         : EurekaGuy
  * YouTube Channel: Eureka! - https://www.youtube.com/channel/UCu7SAylZELIQkBLu6gLazLA
- * YouTube Video: 
+ * YouTube Video  : https://youtu.be/t9xKb1dsuQg
 ****************************************************************************************/
 
 void setup() {
