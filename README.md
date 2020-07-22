@@ -9,4 +9,4 @@
 The timings of LED connected to teh Timer remain independent of the timings set by the potentiometer.
 
 ## For more info, follow:
-### YouTube: Eureka!
+### YouTube: Eureka! - https://youtu.be/t9xKb1dsuQg
